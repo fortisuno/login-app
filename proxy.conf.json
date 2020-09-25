@@ -1,0 +1,8 @@
+{
+    "/AcxpertBack/Rest/*":{
+        "target":"http://74.208.27.217",
+          "secure": false,
+          "changeOrigin": true,
+          "logLevel": "info"
+    }
+}

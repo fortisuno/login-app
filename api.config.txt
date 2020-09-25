@@ -1,0 +1,14 @@
+url: http://74.208.27.217/AcxpertBack/Rest/logInPost
+
+/************* LOGIN REQUEST **************/
+
+{					
+  "logInAuthSDT":{				
+    "ClientID":"77898395e05a439893e03592ff1e60f4",		
+    "User":"admin",				
+    "Renew":"Y",				
+    "Password":"admin123"			
+  }					
+}
+
+
